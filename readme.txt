@@ -10,3 +10,4 @@ git remote add origin git@github.com:huangxing/huangxiong_Github.git
 Creating a new branch is quick.
 Creating a new branch is quick.
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
