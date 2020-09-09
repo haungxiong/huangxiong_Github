@@ -6,3 +6,5 @@ My stupid boss still prefers SVN.
 
 
 git remote add origin git@github.com:huangxing/huangxiong_Github.git
+
+Creating a new branch is quick.
